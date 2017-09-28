@@ -213,6 +213,8 @@ header.masthead {
 .col .img-responsive {
    width: 60%;
    height: 70%;
+   padding: 10px 0;
+   margin: 0 auto;
    filter: grayscale(30%);
 
 
