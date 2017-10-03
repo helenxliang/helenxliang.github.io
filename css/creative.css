@@ -29,11 +29,11 @@ a {
 
 
 h1 {
-  font-size: 4.5vw;
+  font-size: 5.5vw;
 }
 
 h2 {
-  font-size: 3.0vw;
+  font-size: 3.5vw;
 }
 
 @media(max-width: @screen-xs-max){
