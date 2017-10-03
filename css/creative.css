@@ -38,6 +38,10 @@ h2 {
 
 @media(max-width: @screen-xs-max){
   h1 {
+
+
+
+    
     font-size: 30px;
   }
   h2 {
@@ -212,12 +216,12 @@ header.masthead {
           max-width: 1000px;
           margin-right: auto;
           margin-left: auto; }
-       /*   header.masthead .header-content .header-content-inner h1 {
+          header.masthead .header-content .header-content-inner h1 {
             font-size: 1.4em;
             font-size: 4.5vw;
             max-width: 80%;
-            margin-right: auto;*/
-           /* margin-left: auto; } }*/
+            margin-right: auto;
+            margin-left: auto; } }
 
            header.masthead .header-content .header-content-inner img {
             border-radius: 50%;
